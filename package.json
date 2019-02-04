@@ -1,0 +1,23 @@
+{
+  "name": "learnyounode",
+  "version": "1.0.0",
+  "description": "Solutions to **learnyounode** course.",
+  "main": "1-hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/remusa/learnyounode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/remusa/learnyounode/issues"
+  },
+  "homepage": "https://github.com/remusa/learnyounode#readme",
+  "dependencies": {
+    "through2-map": "^3.0.0"
+  }
+}
